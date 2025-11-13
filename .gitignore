@@ -1,2 +1,4 @@
 .env.txt
 frontEnd.ipynb
+Label_encoder.pkl
+target_scaler.pkl
